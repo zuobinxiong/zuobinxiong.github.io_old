@@ -4,7 +4,7 @@ title:      Generative Adversarial Networks - A Survey Towards Private and Secur
 subtitle:   Zhipeng Cai, Zuobin Xiong, Honghui Xu, Peng Wang, Wei Li, and Yi Pan
 date:       2021-04-02
 author:     Zuobin Xiong
-header-img: img/post-bg-swift2.jpg
+header-img: img/post-bg.jpg
 
 catalog: true
 tags:

@@ -4,7 +4,7 @@ title:      Research on trajectory data releasing method via differential privac
 subtitle:   Qilong Han, Zuobin Xiong, Kejia Zhang
 date:       2018-11-11
 author:     Zuobin Xiong
-header-img: img/art-Anaconda-TensorFlow.jpg
+header-img: img/post-bg.jpg
 
 catalog: true
 tags:
