@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Research on trajectory data releasing method via differential privacy based on spatial partition
-subtitle:   Qilong Han, Zuobin Xiong, Kejia Zhang
+subtitle:   Qilong Han, Zuobin Xiong, and Kejia Zhang
 date:       2018-11-11
 author:     Zuobin Xiong
 header-img: img/post-bg.jpg

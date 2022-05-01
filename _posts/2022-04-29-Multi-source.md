@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Multi-Source Adversarial Sample Attack on Autonomous Vehicles
-subtitle:   Zuobin Xiong, Honghui Xu, Wei Li, Zhipeng Cai
+subtitle:   Zuobin Xiong, Honghui Xu, Wei Li, and Zhipeng Cai
 date:       2021-02-14
 author:     Zuobin Xiong
 header-img: img/post-bg.jpg
