@@ -5,9 +5,26 @@
     <description>Hope is a good thing, maybe the best of things, and no good thing ever dies.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 30 Apr 2022 19:49:28 -0400</pubDate>
-    <lastBuildDate>Sat, 30 Apr 2022 19:49:28 -0400</lastBuildDate>
+    <pubDate>Wed, 21 Sep 2022 11:27:34 -0400</pubDate>
+    <lastBuildDate>Wed, 21 Sep 2022 11:27:34 -0400</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Towards Neural Network-based Communication System - Attack and Defense</title>
+        <description>&lt;p&gt;&lt;strong&gt;Published in IEEE Transactions on Dependable and Secure Computing&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Recent progress has witnessed the excellent success of neural networks in many emerging applications, such as image recognition, text classification, and speech analysis. In order to achieve secure communication, the utilization of neural networks has been realized yet has not raised sufficient research attention. Additionally, the existing neural network-based communication system falls short due to its critical security flaws. In this paper, we investigate the security vulnerabilities of the existing neural communication system. Based on our analysis, we design two kinds of attack models, including target man-in-the-middle attack and target fraud attack . After that, to improve the security performance of neural communication systems, we develop a new defense mechanism to facilitate two-way secure communication by separating secret key from plaintext and incorporating defensive loss into the training process. Moreover, we show the effectiveness of our proposed neural communication system via theoretical proof. Finally, we implement comprehensive real data experiments to evaluate the performance of our attack and defense methods from the aspects of classification accuracy, communication efficiency and communication qualify, which confirms the advantages of our proposed neural communication system compared with the state-of-the-art.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 Aug 2021 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2021/08/27/SecureANC/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/08/27/SecureANC/</guid>
+        
+        <category>Privacy Protection</category>
+        
+        <category>Adversarial Attacks</category>
+        
+        
+      </item>
     
       <item>
         <title>Privacy threat and defense for federated learning with non-iid data in AIoT</title>
