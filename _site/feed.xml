@@ -5,9 +5,29 @@
     <description>Hope is a good thing, maybe the best of things, and no good thing ever dies.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 21 Sep 2022 11:27:34 -0400</pubDate>
-    <lastBuildDate>Wed, 21 Sep 2022 11:27:34 -0400</lastBuildDate>
+    <pubDate>Wed, 23 Nov 2022 16:36:33 -0500</pubDate>
+    <lastBuildDate>Wed, 23 Nov 2022 16:36:33 -0500</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Federated Generative Model on Multi-Source Heterogeneous Data in IoT</title>
+        <description>&lt;p&gt;&lt;strong&gt;Published in AAAI Conference on Artificial Intelligence&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The study of generative models is a promising branch of deep learning techniques, which has been successfully applied to different scenarios, such as Artificial Intelligence and the Internet of Things. While in most of the existing works, the generative models are realized as a centralized structure, raising the threats of security and privacy and the overburden of
+communication costs. Rare efforts have been committed to investigating distributed generative models, especially when the training data comes from multiple heterogeneous sources under realistic IoT settings. In this paper, to handle this challenging problem, we design a federated generative model framework that can learn a powerful generator for the hierarchical IoT systems. Particularly, our generative model framework can solve the problem of distributed data generation on multi-source heterogeneous data in two scenarios, i.e., feature related scenario and label related scenario. In addition, in our federated generative models, we develop a synchronous and an asynchronous updating methods to satisfy different application requirements. Extensive experiments on a simulated dataset and multiple real datasets are conducted to evaluate the data generation performance of our proposed generative models through comparison with the state-of-the-arts.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 18 Nov 2022 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2022/11/18/FedGAN/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/11/18/FedGAN/</guid>
+        
+        <category>Generative Adversarial Networks</category>
+        
+        <category>Federated Learning</category>
+        
+        <category>Privacy Protection</category>
+        
+        
+      </item>
     
       <item>
         <title>Towards Neural Network-based Communication System - Attack and Defense</title>
@@ -15,9 +35,9 @@
 
 &lt;p&gt;Recent progress has witnessed the excellent success of neural networks in many emerging applications, such as image recognition, text classification, and speech analysis. In order to achieve secure communication, the utilization of neural networks has been realized yet has not raised sufficient research attention. Additionally, the existing neural network-based communication system falls short due to its critical security flaws. In this paper, we investigate the security vulnerabilities of the existing neural communication system. Based on our analysis, we design two kinds of attack models, including target man-in-the-middle attack and target fraud attack . After that, to improve the security performance of neural communication systems, we develop a new defense mechanism to facilitate two-way secure communication by separating secret key from plaintext and incorporating defensive loss into the training process. Moreover, we show the effectiveness of our proposed neural communication system via theoretical proof. Finally, we implement comprehensive real data experiments to evaluate the performance of our attack and defense methods from the aspects of classification accuracy, communication efficiency and communication qualify, which confirms the advantages of our proposed neural communication system compared with the state-of-the-art.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 27 Aug 2021 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2021/08/27/SecureANC/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/08/27/SecureANC/</guid>
+        <pubDate>Sat, 27 Aug 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022/08/27/SecureANC/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/08/27/SecureANC/</guid>
         
         <category>Privacy Protection</category>
         
